@@ -19,13 +19,12 @@
     justify-content: space-between;
     align-items: center;
     padding: 20px 10%;
-    /* box-shadow: rgba(33, 35, 38, 0.1) 0px 10px 10px -10px; */
     box-shadow: rgba(0, 0, 0, 0.09) 0px 3px 12px;
-    /* margin-bottom: 20px; */
+    margin-bottom: 20px;
   }
   
   h1 {
-    color: rgb(225, 76, 65);
+    color: rgb(38, 166, 154);
     text-transform: uppercase;
     font-weight: 500px;
     font-size: 30px;
@@ -34,7 +33,7 @@
   
   #cesta-carrito {
     border: none;
-    color: rgb(225, 76, 65);
+    color: rgb(38, 166, 154);
     font-size: 30px;
     background-color: white;
     border-radius: 50%;
@@ -45,7 +44,7 @@
   #cesta-carrito:hover {
     cursor: pointer;
     color: white;
-    background-color: rgb(225, 76, 65);
+    background-color: rgb(38, 166, 154);
   }
   
   #cesta-carrito:focus {
@@ -115,7 +114,7 @@
   }
   
   .modal-carrito h3 {
-    color: rgb(225, 76, 65);
+    color: rgb(38, 166, 154);
     padding-bottom: 5px;
   }
   
@@ -124,7 +123,7 @@
     top: 15px;
     right: 15px;
     font-size: 20px;
-    color: rgb(225, 76, 65) !important;
+    color: rgb(38, 166, 154) !important;
     border: none;
     background-color: white;
   }
@@ -142,7 +141,7 @@
   }
   
   .card .card-image .card-title {
-    color: rgb(225, 76, 65);
+    color: rgb(38, 166, 154);
     position: unset
   }
   
@@ -157,7 +156,7 @@
   }
   
   .productoEnCarrito:hover {
-    border-left: 5px solid rgb(225, 76, 65);
+    border-left: 5px solid rgb(38, 166, 154);
   }
   
   .boton-eliminar {
