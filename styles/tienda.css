@@ -61,6 +61,11 @@
     flex-wrap: wrap;
   }
   
+  #buscarProducto {
+    width: 50%;
+    margin: 10px;
+  }
+
   p {
     line-height: 1.8;
   }
