@@ -1,3 +1,5 @@
+// Acá es donde ingreso cada producto que estará disponible en mi e-commerce. 
+
 const productos =
 [
     {

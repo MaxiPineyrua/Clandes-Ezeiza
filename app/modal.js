@@ -5,6 +5,8 @@ const abrirCarrito = document.getElementById("cesta-carrito");
 const cerrarCarrito = document.getElementById("btn-cerrar-carrito");
 const modalCarrito = document.querySelector(".modal-carrito")
 
+// Acá está el código que usamos para abrir carrito, cerrar carrito y eliminar un producto de nuestro carrito.
+
 abrirCarrito.addEventListener("click", () => {
     modalContenedor.classList.toggle("modal-active")
 });
